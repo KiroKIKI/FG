@@ -16,18 +16,20 @@ a {
 ul{
    list-style: url("https://learn.algoritmika.org/uploads/2021/01/Arrow%201_0_1611261359.svg"); 
 }
-h2 {
-    color: rgb(230, 54, 0);
-}
 h1 {
     text-align: center;
 }
+h2 {
+    color: rgb(230, 54, 0);
+    font-size: 20px;
+}
 h3 {
-    text-align: center;
-    font-size: 30px;
-    border-bottom:2px solid black ;
-    border-top:2px solid black ;
-    padding: 10px;
+    color: rgb(230, 54, 0);
+    font-size: 20px;
+}
+h4 {
+    color: rgb(230, 54, 0);
+    font-size: 20px;
 }
 footer {
    background-color:  rgb(45, 153, 172);
@@ -35,3 +37,10 @@ footer {
    padding:7px;
    color: white;
 }
+footer {
+   background-color:  rgb(45, 153, 172);
+   margin: 10px;
+   padding:7px;
+   color: white;
+}
+
